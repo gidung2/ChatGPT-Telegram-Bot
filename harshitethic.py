@@ -28,8 +28,8 @@ timstart = 300
 tim = 1
 
 #Defaults
-user = ""
-running = False
+user = "shiori"
+running = True
 cache = None
 qcache = None
 chat_log = None
